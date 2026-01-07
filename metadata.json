@@ -1,0 +1,7 @@
+{
+  "name": "MarketCatalog - Conectando Ofertas",
+  "description": "Um catálogo digital completo que conecta supermercados e clientes, permitindo a gestão de produtos, promoções em tempo real e busca por localização.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
